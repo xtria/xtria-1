@@ -35,3 +35,6 @@ run
 - sh redhat.sh	
 - sh suse.sh	
 - sh ubuntu.sh
+
+
+thanks
